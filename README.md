@@ -14,3 +14,4 @@ I write about:
 
 - Personal blog: https://yangweiwei.dev
 - AI Research Reviews: https://www.airesearchreviews.com
+- MomentWording: https://www.momentwording.com — workplace-safe message examples and a simple card generator for work anniversaries, retirements, and team notes.
