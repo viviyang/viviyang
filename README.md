@@ -12,6 +12,7 @@ I write about:
 
 ## Projects
 
+- PianoGrid: https://pianogrid.com — browser-based piano chords, scales, keyboard notes, songs, guides, and printable practice tools.
 - Personal blog: https://yangweiwei.dev
 - AI Research Reviews: https://www.airesearchreviews.com
 - MomentWording: https://www.momentwording.com — workplace-safe message examples and a simple card generator for work anniversaries, retirements, and team notes.
